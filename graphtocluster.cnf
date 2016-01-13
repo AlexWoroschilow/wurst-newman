@@ -1,0 +1,23 @@
+[sources]
+
+# Graph file to process
+# in ncol format, 
+# todo: support all formats from igraph
+graphncol=./aacid_01_1000.ncol
+
+# Configuration file for logging subsystem
+# to complete disable logging just 
+# disable this variable
+logconfig=./logger.cnf
+
+[limits]
+# Maximal edge wieght to remove (<) 
+# all edges with weight < minimal_weight
+# will be removed
+minimal_weight=0.5
+
+# The maximum number of steps to perform. It might happen that some component (or the whole network) has no underlying
+# community structure and no further steps can be done. If you want as many steps as possible then supply the number
+# of vertices in the network here(=1). 
+# In other cases it should be like |V|/maximal_steps_delimieter
+maximal_steps_delimieter=5

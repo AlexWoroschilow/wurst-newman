@@ -1,0 +1,1408 @@
+Vcount: 2, ecount: 1, steps: 2, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 2, ecount: 1, steps: 2, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 179, ecount: 600, steps: 179, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 519, ecount: 4766, steps: 519, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 93, ecount: 900, steps: 93, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 29, ecount: 28, steps: 29, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 36, ecount: 70, steps: 36, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 4, ecount: 5, steps: 4, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 25, ecount: 31, steps: 25, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 51, ecount: 50, steps: 51, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 51, ecount: 50, steps: 51, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 97, ecount: 133, steps: 97, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 115, ecount: 150, steps: 115, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 83, ecount: 100, steps: 83, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 67, ecount: 100, steps: 67, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 48, ecount: 112, steps: 48, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 13, ecount: 24, steps: 13, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 62, ecount: 100, steps: 62, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 8, ecount: 14, steps: 8, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 113, ecount: 189, steps: 113, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 127, ecount: 200, steps: 127, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 4, ecount: 5, steps: 4, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 55, ecount: 100, steps: 55, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 42, ecount: 41, steps: 42, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 11, ecount: 17, steps: 11, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 5, ecount: 4, steps: 5, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvector in 0.000000 sec
+Vcount: 1, ecount: 0, steps: 1, 
+Time:	 igraph_community_leading_eigenvec

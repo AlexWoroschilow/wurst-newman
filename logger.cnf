@@ -1,0 +1,5 @@
+[formats]
+simple = "%d - %v: %m%n"
+[rules]
+#graphtocluster.DEBUG    >stdout; simple
+graphtocluster.DEBUG "./graphtocluster.log"

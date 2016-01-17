@@ -30,7 +30,7 @@
 #include "logger.h"
 
 int double_lt(void * value1, void * value2) {
-	return *((double*) value1) < *((double*) value2);
+	return *((double*) value1) <= *((double*) value2);
 }
 
 /* Try to find config from command
@@ -81,12 +81,14 @@ int main(int argc, char** argv) {
 	FILE *graph_source = fopen(graphncol, "r");
 	response = igraph_read_graph_ncol(&graph, graph_source, NULL, true, IGRAPH_ADD_WEIGHTS_YES, 0);
 	massert((response == IGRAPH_SUCCESS), "Can not read a graph");
+	logger_info("Count:\t edges at start: %d", igraph_ecount(&graph));
 	fclose(graph_source);
 
 	time(&time_start);
 	igraph_edges_remove_by(&graph, "weight", minimal_weight, double_lt);
 	time(&time_end);
 	logger_info("Time:\t remove edges: %f", difftime(time_end, time_start));
+	logger_info("Count:\t edges after remove: %d", igraph_ecount(&graph));
 
 	response = igraph_vector_ptr_init(&complist, 0);
 	massert((response == IGRAPH_SUCCESS), "Can not initialize vector pointer");

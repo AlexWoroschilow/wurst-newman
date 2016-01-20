@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import statsmodels.api as sm
 
-data = pd.read_csv('../aacid_vs_salami.csv', sep=';')
+data = pd.read_csv('../aacid_vs_salami_1.csv', sep=';')
 
 x = data['tm_score aacid']
 y = data['tm_score salami']

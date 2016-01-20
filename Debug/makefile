@@ -36,7 +36,7 @@ graphtocluster: $(OBJS) $(USER_OBJS)
 
 # Other Targets
 clean:
-	-$(RM) $(OBJS)$(C_DEPS)$(EXECUTABLES) graphtocluster
+	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) graphtocluster
 	-@echo ' '
 
 .PHONY: all clean dependents

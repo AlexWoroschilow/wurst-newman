@@ -30,7 +30,7 @@
 #include "logger.h"
 
 int double_lt(void * value1, void * value2) {
-	return *((double*) value1) <= *((double*) value2);
+	return *((double*) value1) < *((double*) value2);
 }
 
 /* Try to find config from command

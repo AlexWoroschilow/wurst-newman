@@ -64,7 +64,7 @@ inc/igraph_custom.o: ../inc/igraph_custom.c \
  /usr/include/igraph/igraph_graphlets.h \
  /usr/include/igraph/igraph_epidemics.h \
  /usr/include/igraph/igraph_interface.h \
- /usr/include/igraph/igraph_attributes.h
+ /usr/include/igraph/igraph_attributes.h ../inc/logger.h
 
 /home/sensey/Projects/WurstNewman/inc/massert.h:
 
@@ -221,3 +221,5 @@ inc/igraph_custom.o: ../inc/igraph_custom.c \
 /usr/include/igraph/igraph_interface.h:
 
 /usr/include/igraph/igraph_attributes.h:
+
+../inc/logger.h:
